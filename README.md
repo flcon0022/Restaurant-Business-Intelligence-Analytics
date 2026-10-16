@@ -1,0 +1,1 @@
+Built an end-to-end analytics solution using Excel, Python, PostgreSQL, SQL, and Power BI to analyse restaurant sales, customer behaviour, order status, and delivery performance through three interactive dashboards.
